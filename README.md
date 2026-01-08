@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi 👋, I'm Shaik Nusrath
 
-<!--
-**S-nusrath/S-nusrath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💼 Intern at **Infosys**  
+💡 Passionate about problem-solving and building a strong foundation in software development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Currently pursuing **Computer Science**
+- Working as an **Intern at Infosys**
+- Actively learning and practicing **Data Structures & Algorithms**
+- Improving my skills in **Java** and **JavaScript**
+- Interested in building real-world, scalable software solutions
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
+- Java  
+- C  
+- SQL  
+- JavaScript (Basics)
+
+### 📚 Core Concepts
+- Data Structures & Algorithms  
+- DBMS  
+- Object-Oriented Programming  
+
+### 🔧 Tools & Technologies
+- Git & GitHub  
+
+---
+
+## 📌 Current Focus
+- Data Structures & Algorithms  
+- JavaScript fundamentals  
+- Writing clean, efficient, and maintainable code  
+
+---
+
+## 📊 GitHub Stats
+![Shaik Nusrath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=S-nusrath&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=S-nusrath&layout=compact&theme=default)
+
+---
+
+## 🤝 Let's Connect
+- 💼 **Intern at Infosys**
+- 🌱 Always eager to learn and grow as a developer
+
+---
+
+⭐ *Feel free to explore my repositories and follow my learning journey!*
