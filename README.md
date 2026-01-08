@@ -40,12 +40,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Shaik Nusrath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=S-nusrath&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=S-nusrath&layout=compact&theme=default)
-
----
 
 ## 🤝 Let's Connect
 - 💼 **Intern at Infosys**
