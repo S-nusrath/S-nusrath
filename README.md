@@ -30,7 +30,6 @@
 
 ### 🔧 Tools & Technologies
 - Git & GitHub  
-
 ---
 
 ## 📌 Current Focus
